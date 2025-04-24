@@ -2,8 +2,8 @@
 {
     public class Login
     {
-        public string Usuario { get; set; }  // El documento del estudiante
-        public string Clave { get; set; }    // La clave que ingresa el estudiante (sin cifrado)
+        public string Usuario { get; set; }  
+        public string Clave { get; set; }    //(sin cifrado)
         public string PaginaSolicitud { get; set; }
     }
 
